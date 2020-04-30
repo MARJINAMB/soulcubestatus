@@ -1,0 +1,2 @@
+you must install manualy all depedentes
+all depedentes are in requirements.txt

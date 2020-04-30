@@ -1,0 +1,17 @@
+{
+  "name": "Minecraft Server Status Bot Discord",
+  "version": "1.0",
+  "author": "Gorlik",
+  "description": "Minecraft Server Status Bot Discord",
+  "main": "./main.js",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "repeat": "0.0.6",
+    "request": "^2.88.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gorlik1337/McStatus-Discord-Bot.git"
+  }
+}
